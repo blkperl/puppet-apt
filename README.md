@@ -1,5 +1,7 @@
 # Apt module for Puppet
 
+[![Build Status](https://travis-ci.org/puppetlabs/puppet.png?branch=master)](https://travis-ci.org/puppetlabs/puppet)
+
 ## Description
 Provides helpful definitions for dealing with Apt.
 
